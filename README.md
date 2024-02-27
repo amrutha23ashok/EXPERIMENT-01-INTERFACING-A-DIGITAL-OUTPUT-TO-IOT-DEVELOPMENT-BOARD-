@@ -115,9 +115,9 @@ int main(void)
 
 
 ## OUTPUT  :
-blob:https://web.whatsapp.com/ed3eeaa5-8d2c-4558-a0e6-f9302f6dad4d
 
- 
+ ![Uploading iot -1-1.jpg…]()
+
  
  
 ## Result :
