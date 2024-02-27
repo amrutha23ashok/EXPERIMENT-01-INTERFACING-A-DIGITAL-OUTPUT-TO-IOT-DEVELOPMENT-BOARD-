@@ -115,7 +115,8 @@ int main(void)
 
 
 ## OUTPUT  :
-![Uploading iot1.jpg…]()
+![Uploading iot exp1.jpeg…]()
+
 
  
 
