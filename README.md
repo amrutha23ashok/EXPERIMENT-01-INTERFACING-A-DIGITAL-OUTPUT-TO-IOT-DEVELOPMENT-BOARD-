@@ -115,9 +115,7 @@ int main(void)
 
 
 ## OUTPUT  :
-![Uploading image.png…]()
-![Uploading image.png…]()
-
+blob:https://web.whatsapp.com/ed3eeaa5-8d2c-4558-a0e6-f9302f6dad4d
 
  
  
