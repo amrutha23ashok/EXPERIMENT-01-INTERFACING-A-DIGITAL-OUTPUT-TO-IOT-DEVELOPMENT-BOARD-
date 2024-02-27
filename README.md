@@ -115,9 +115,8 @@ int main(void)
 
 
 ## OUTPUT  :
-![iot -1-1](https://github.com/amrutha23ashok/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/120772913/8290bef0-06e4-4996-85ad-43f18db03593)
-![Uploading iot -1-2.jpg…]()
-
+![Uploading image.png…]()
+![Uploading image.png…]()
 
 
  
