@@ -115,13 +115,8 @@ int main(void)
 
 
 ## OUTPUT  :
-![Uploading iot exp1.jpeg…]()
 
-
-
- 
-
- 
+![iot exp1](https://github.com/amrutha23ashok/EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/120772913/b552aaa5-67dd-4fd7-b66b-bf13135fcae9)
  
 ## Result :
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
