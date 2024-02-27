@@ -115,8 +115,10 @@ int main(void)
 
 
 ## OUTPUT  :
+![Uploading image.png…]()
 
- ![Uploading iot -1-1.jpg…]()
+
+ 
 
  
  
